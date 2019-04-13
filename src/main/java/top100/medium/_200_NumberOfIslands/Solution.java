@@ -2,8 +2,11 @@ package top100.medium._200_NumberOfIslands;
 
 import org.junit.Test;
 
+/**
+ * @author LinZebin
+ * @date 2019-04-13 14:58
+ */
 public class Solution {
-
     public int numIslands(char[][] grid) {
         if (grid == null || grid.length == 0 || grid[0].length == 0) {
             return 0;
@@ -46,6 +49,4 @@ public class Solution {
         int islands = numIslands(grid);
         System.out.println(islands);
     }
-
 }
-
