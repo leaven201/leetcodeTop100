@@ -2,8 +2,6 @@ package others.边界都为1的最大正方形;
 
 import org.junit.Test;
 
-import java.util.Map;
-
 /**
  * @author LinZebin
  * @date 2019-04-14 21:15
