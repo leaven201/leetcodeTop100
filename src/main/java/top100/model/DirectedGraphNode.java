@@ -1,4 +1,4 @@
-package top100.utils;
+package top100.model;
 
 import java.util.ArrayList;
 

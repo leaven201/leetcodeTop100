@@ -1,7 +1,7 @@
 package top100.easy._206_ReverseLinkedList;
 
 import org.junit.Test;
-import top100.utils.ListNode;
+import top100.model.ListNode;
 import utils.LinkedList.LinkedListUtils;
 
 /**

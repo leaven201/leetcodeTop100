@@ -2,7 +2,7 @@ package top100.easy._101_SymmetricTree;
 
 
 import org.junit.Test;
-import top100.utils.TreeNode;
+import top100.model.TreeNode;
 
 import java.util.*;
 import java.util.Map.Entry;

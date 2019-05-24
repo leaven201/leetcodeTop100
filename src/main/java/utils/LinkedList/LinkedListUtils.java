@@ -1,6 +1,6 @@
 package utils.LinkedList;
 
-import top100.utils.ListNode;
+import top100.model.ListNode;
 
 /**
  * @author LinZebin

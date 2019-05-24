@@ -1,6 +1,6 @@
 package top100.easy._21_MergeTwoSortedLists;
 
-import top100.utils.ListNode;
+import top100.model.ListNode;
 
 public class Solution {
 

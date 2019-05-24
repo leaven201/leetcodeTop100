@@ -1,7 +1,7 @@
 package top100.medium._148_SortList;
 
 import org.junit.Test;
-import top100.utils.ListNode;
+import top100.model.ListNode;
 
 /**
  * @author LinZebin

@@ -1,7 +1,7 @@
 package top100.medium._207_CourseSchedule;
 
 import org.junit.Test;
-import top100.utils.DirectedGraphNode;
+import top100.model.DirectedGraphNode;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package top100.utils;
+package top100.model;
 
 public class ListNode {
     public int val;

@@ -1,6 +1,6 @@
 package top100.medium._236_二叉树最近公共祖先;
 
-import top100.utils.TreeNode;
+import top100.model.TreeNode;
 
 /**
  * @author LinZebin
