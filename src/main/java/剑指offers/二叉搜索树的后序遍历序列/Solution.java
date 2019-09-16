@@ -1,4 +1,4 @@
-package offers.二叉搜索树的后序遍历序列;
+package 剑指offers.二叉搜索树的后序遍历序列;
 
 /**
  * @author LinZebin
