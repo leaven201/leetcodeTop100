@@ -1,4 +1,4 @@
-package leetcode.哈希表.重复的DNA序列187;
+package leetcode.哈希表_数组.重复的DNA序列187;
 
 import java.util.*;
 
