@@ -1,4 +1,4 @@
-package top100.easy.二叉树的最大深度;
+package top100.easy.二叉树的最大深度104;
 
 import top100.model.TreeNode;
 
