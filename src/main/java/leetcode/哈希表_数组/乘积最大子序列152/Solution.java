@@ -9,6 +9,9 @@ class Solution {
      * 分析：只要不是遇到0，累积结果的绝对值一定是变大的
      */
     public int maxProduct(int[] nums) {
+        if (nums == null || nums.length == 0){
+            return 0;
+        }
         // 以当前nums[i]为子序列结尾时，所能获得的最小累积值（负数）
         int min = nums[0];
         // 以当前nums[i]为子序列结尾时，所能获得的最大累积值（正数）
